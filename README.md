@@ -1,2 +1,0 @@
-# leapyear
-Exercism- LeapYear
